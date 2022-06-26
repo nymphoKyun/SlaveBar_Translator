@@ -13,5 +13,7 @@ This repository contains only the text files (doesn't contain the textures).
  *do not delete the existing AutoTranslator folder in game project
 
 // Game links
+
 https://nymphokyun.net/slavebar/
+
 https://www.dlsite.com/maniax/work/=/product_id/RJ381390.html/?locale=en_US
